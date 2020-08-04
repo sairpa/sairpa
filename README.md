@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+   ![Image of cartoon - rpa](https://github.com/sairpa/sairpa/blob/master/rpa.jpg)
 
 
 - 🔭 I’m currently working on ...
@@ -13,7 +14,8 @@
 - 💬 Ask me about ...
     Everthing about TECH! - Phones, PCs, OSses and all the stuff! I will be happy to tell what i know and also learn from y'all.
 - 📫 How to reach me: ...
-    Twitter - https://twitter.com/PranavAjay7
+    1. Twitter - https://twitter.com/PranavAjay7, 
+    2. My Blog - https://rpatechie.blogspot.com/
 - 😄 Pronouns: ...
     he/him/your honour 🤣
 - ⚡ Fun fact: ...
