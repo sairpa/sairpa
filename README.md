@@ -19,5 +19,5 @@
 - 😄 Pronouns: ...
     he/him/your honour 🤣
 - ⚡ Fun fact: ...
-    Microsoft Windows 10 is better than macOS 😇 
+  Windows 10 is better than macOS 😇 
 
