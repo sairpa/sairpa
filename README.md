@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm R Pranav Ajay</h1>
 <h3 align="center">A Tech enthusiast, Android Dev, Xamarin Dev, AI Freak, Photographer and above all, a Nature lover!</h3>
+<h3 align="center">Visitor Count!</h3>
+<p align="left"> <img src="https://profile-counter.glitch.me/sairpa/count.svg" alt="sairpa" />
 
-<p align="left"> <img src="https://profile-counter.glitch.me/sairpa/count.svg" alt="sairpa" /> </p>
+</p>
 
 - 🔭 I’m currently working on **Android Apps, and Machine Learning Projects**
 
