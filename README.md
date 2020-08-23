@@ -25,6 +25,6 @@
 
 <p align="center">
 <a href="https://dev.to/sairpa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sairpa" height="30" width="30" /></a>
-<a href="https://twitter.com/https://twitter.com/pranavajay7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/pranavajay7" height="30" width="30" /></a>
+<a href="https://twitter.com/https://twitter.com/PranavAjay7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/pranavajay7" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-ajay-rajesh-1860451ab/detail/contact-info/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pranav-ajay-rajesh-1860451ab/detail/contact-info/" height="30" width="30" /></a>
 </p>
