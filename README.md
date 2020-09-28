@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm R Pranav Ajay</h1>
-<h3 align="center">A Tech enthusiast, Android Dev, Xamarin Dev, AI Freak, Photographer and above all, a Nature lover!</h3>
+<h3 align="center">A Tech enthusiast and a Nature lover!</h3>
 
 
 - 🔭 I’m currently working on **Android Apps, and Machine Learning Projects**
 
-- 🌱 I’m currently learning **Flutter and Machine Learning Frameworks - OpenCV, TensorFlow**
-
 - 👯 I’m looking to collaborate on **Topics like UI/UX in Android Apps with XML**
-
-- 🤝 I’m looking for help with **Cross Platform App Development...**
 
 - 📝 I regulary write articles on [https://rpatechie.blogspot.com/](https://rpatechie.blogspot.com/)
 
