@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Topics like UI/UX in Android Apps with XML**
 
-- 📝 I regulary write articles on [https://rpatechie.blogspot.com/](https://rpatechie.blogspot.com/)
+- 📝 I occasionally ( but trying to be consistent! :p) write articles on [https://rpatechie.blogspot.com/](https://rpatechie.blogspot.com/)
 
 - 💬 Ask me about **Everthing about TECH! - Phones, PCs, OSses and all the stuff! I will be happy to tell what i know and also learn from y'all.**
 
