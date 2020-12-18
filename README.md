@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Everthing about TECH! - Phones, PCs, OSses and all the stuff! I will be happy to tell what i know and also learn from y'all.**
 
-- 📫 How to reach me **Twitter - https://twitter.com/PranavAjay7, My Blog - https://rpatechie.blogspot.com/**
+- 📫 How to reach me **Twitter - https://twitter.com/PranavAjay7
 
 - ⚡ Fun fact **Windows 10 is better than macOS 😇**
 
