@@ -4,15 +4,13 @@
 
 - 🔭 I’m currently working on **Android Apps, and Machine Learning Projects**
 
-- 👯 I’m looking to collaborate on **Topics like UI/UX in Android Apps with XML**
-
-- 📝 I occasionally ( but trying to be consistent! :p) write articles on [here](https://rpatechie.blogspot.com/)
+- 📝 I occasionally write articles on [here](https://rpatechie.blogspot.com/)
 
 - 💬 Ask me about **Everthing about TECH! - Phones, PCs, OSses and all the stuff! I will be happy to tell what i know and also learn from y'all.**
 
 - 📫 How to reach me **Twitter** - https://twitter.com/PranavAjay7
 
-- ⚡ Fun fact **Windows 10 is better than macOS 😇**
+- ⚡ Fun fact **Windows 10 vs Linux is dumb! you need both of them to survive😇**
 
 <p align="center">
 <a href="https://dev.to/sairpa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sairpa" height="30" width="30" /></a>
