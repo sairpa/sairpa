@@ -1,9 +1,9 @@
 <h1 align="center">Hiii there 👋, I'm R Pranav Ajay aka rpa </h1>
 <h3 align="center">A Tech enthusiast and a Nature lover!</h3>
-<h3 align="center">Firmware V0.6b</h3>
+<h3 align="center">Firmware V0.6 Stable</h3>
 
 
-- 🔭 I’m currently learning about **understanding how android works and how eyes work!**
+- 🔭 I’m currently learning about **understanding how android works!**
 
 - 💼 I'm currently working on **UI/UX and mindfulness**
 
