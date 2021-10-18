@@ -1,11 +1,11 @@
-<h1 align="center">Hiii there 👋, I'm R Pranav Ajay aka rpa </h1>
+<h1 align="center">Hiii there 👋, I'm R Pranav Ajay aka sairpa </h1>
 <h3 align="center">A Tech enthusiast and a Nature lover!</h3>
-<h3 align="center">Firmware V0.6 Stable</h3>
+<h3 align="center">Firmware V0.65 Stable</h3>
 
 
-- 🔭 I’m currently learning about **understanding how android works!**
+- 🔭 I’m currently learning about **handling burnouts😂!**
 
-- 💼 I'm currently working on **UI/UX and mindfulness**
+- 💼 I'm currently working on **Android 11 and Unity**
 
 - 📝 I occasionally write articles on [here](https://rpatechie.blogspot.com/)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Twitter** - https://twitter.com/PranavAjay7
 
-- ⚡ Fun fact **Windows 10 vs Linux is dumb! Use macOS to get the best of both worlds!😇**
+- ⚡ Fun fact **Windows vs Linux vs MacOS is dumb! Each of em' are for different but intersecting audiences!😇**
 
 <p align="center">
 <a href="https://dev.to/sairpa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sairpa" height="30" width="30" /></a>
